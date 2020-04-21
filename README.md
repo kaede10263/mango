@@ -4,9 +4,8 @@ Rank the mangos into three parts. One is "A", the others is "B" and others is "C
 
 [website](https://aidea-web.tw/aicup_mango).
 
-A                                    B                                     C
 
-<img width="150" height="150" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00033.jpg"/><img width="150" height="150" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00027.jpg"/><img width="150" height="150" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00051.jpg"/>
+<img width="150" height="150" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00033.jpg"/> A <img width="150" height="150" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00027.jpg"/> B <img width="150" height="150" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00051.jpg"/> C 
 
 
 
