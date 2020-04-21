@@ -4,11 +4,11 @@
 The official competition will provide manually marked mango quality grades (3 types) and disease types (7 types) files, and divide the data into training sets, construction sets (development sets) and test sets. The target of the competition is to extract features from the images provided by the conference and identify the labels provided, and to evaluate the images based on the extracted features to confirm the correlation between grade and defective products. This competition uses WAR (Weighted Average Recall) to evaluate the accuracy of the participants' prediction results on the test corpus. The organizer will publish the relevant rules of the competition in the registration rules and specify the specifications of the type of association.
 <div align=center><img src="https://github.com/kaede10263/mango/blob/master/others/score.png"/></div>
 
-click here to find others information.[website](https://aidea-web.tw/aicup_mango)
 
-
+## examples
 <img width="250" height="250" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00033.jpg"/> A <img width="250" height="250" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00027.jpg"/> B <img width="250" height="250" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00051.jpg"/> C 
 
+click [here] to find others information.(https://aidea-web.tw/aicup_mango)
 
 
 
