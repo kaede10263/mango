@@ -1,6 +1,6 @@
 # mango
  
-Rank the mangos into three parts. One is "A", the others is "B" and others is "C".
+Rank the mangos into three grades. One is "A", the others is "B" and others is "C".
 
 [website](https://aidea-web.tw/aicup_mango).
 
@@ -34,5 +34,6 @@ and run this
 pip install -r requirements.txt
 ``` 
 
-
+## schedule
+<img src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00033.jpg"/>
 
