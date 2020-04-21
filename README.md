@@ -5,7 +5,7 @@ Rank the mangos into three grades. One is "A", the others is "B" and others is "
 [website](https://aidea-web.tw/aicup_mango).
 
 
-<img width="150" height="150" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00033.jpg"/> A <img width="150" height="150" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00027.jpg"/> B <img width="150" height="150" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00051.jpg"/> C 
+<img width="300" height="300" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00033.jpg"/> A <img width="300" height="300" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00027.jpg"/> B <img width="300" height="300" src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00051.jpg"/> C 
 
 
 
