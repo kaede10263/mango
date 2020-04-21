@@ -12,9 +12,10 @@ Rank the mangos into three parts. One is "A", the others is "B" and others is "C
 
 ## envirment
 *   python = 3.6
-*   scrapy = 2.0.0
 *   numpy = 1.14.3
 *   pandas = 0.23.0
+*   tensorflow-gpu= 1.1.15
+*   keras = 2.2.4
 
 ## install
 Install anaconda and add anaconda into envirment path.
@@ -35,22 +36,3 @@ pip install -r requirements.txt
 
 
 
-## command use
-here is the folder
-
-``` 
-cd  D:\GDbackup\PROJECT\tree\Beijing_plant\plant_crawler
-```
-do this command
-
-```
-scrapy crawl plant_spyder
-```
-
-You will get "hello.csv" in the path.
-
-```
-python combine.py
-```
-
-You will get "result.csv" in the path.
