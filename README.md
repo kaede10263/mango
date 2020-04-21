@@ -35,5 +35,5 @@ pip install -r requirements.txt
 ``` 
 
 ## schedule
-<img src="https://github.com/kaede10263/mango/blob/master/data/C1-P1_Dev/00033.jpg"/>
+<img src="https://github.com/kaede10263/mango/blob/master/others/schedule.png"/>
 
